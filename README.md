@@ -1,5 +1,3 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Enter the dungeon.... maybe I haven't decided if that's what this game will be
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+The important part is that this game uses ~Scriptable Objects~
