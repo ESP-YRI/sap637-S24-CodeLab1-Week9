@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 584a36e3c51284df8aa640dae028c689, type: 3}
+  m_Name: End
+  m_EditorClassIdentifier: 
+  locationName: THE END
+  locationGoal: You did it! You made food!!!
+  north: {fileID: 0}
+  east: {fileID: 0}
+  south: {fileID: 0}
+  west: {fileID: 0}
+  recipes: {fileID: 0}
+  exit: {fileID: 0}
+  soup: {fileID: 0}
+  omelette: {fileID: 0}
+  pizza: {fileID: 0}
+  isKitchen: 0
+  isPantry: 0

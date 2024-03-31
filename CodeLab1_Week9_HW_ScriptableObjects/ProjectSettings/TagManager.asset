@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Broth
+  - Cheese
+  - Corn
+  - Cream
+  - Dough
+  - Egg
+  - Pepperoni
   layers:
   - Default
   - TransparentFX
