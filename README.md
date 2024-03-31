@@ -1,3 +1,4 @@
-# Enter the dungeon.... maybe I haven't decided if that's what this game will be
+# You're hungry... time to cook some food!
 
-The important part is that this game uses ~Scriptable Objects~
+Walk around your house to get ingredients and cook yourself a nice meal!
+Also, this game uses ~Scriptable Objects~
